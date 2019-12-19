@@ -3,6 +3,6 @@
 # Information Technology
 ## IT 学习之路网站
 
-> 好记性不如烂笔头
+> IT一入深如海，从此醉虾是路人
 
 [瞧一瞧](program/)
